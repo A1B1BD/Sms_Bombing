@@ -11,4 +11,4 @@
 - cd Sms_Bombing
 - python 'sms bom_enc.py'
 #
-<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMCy3mNYWwb13MY28czU9BmJCUrQ0_fE-w2XAPBUjevH15y1LV1wte9DyvCmu7lB906Y&usqp=CAU" alt="image" height="300px" widht="200px"></img>
+[![pppjpg.jpg](https://i.postimg.cc/j2Y0Zdxy/pppjpg.jpg)](https://postimg.cc/MM5FGwjG)
